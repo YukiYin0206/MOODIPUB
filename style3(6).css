@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  }
+
+body{
+     background-color:#019855;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     }
+
+.logo{
+      font-family: 'Modak', cursive;
+      color: #FAF3E8;
+      font-size: 100px;
+      margin-top: 70px;
+      line-height: 20px;
+      letter-spacing: 3px;
+      }
+
+.a{
+   width: 1300px;
+   height: 830px;
+   background: url(./images/bg2.png) no-repeat;
+   background-position: -260px -90px;
+   background-size: 140%;
+   }
+
+.c16{
+    width: 400px;
+    padding-top: 15px;
+    }
+.c17{
+    width: 390px;
+    padding-top: 9px;
+    padding-right: 25px;
+    }
+.c18{
+    width: 375px;
+    padding-top: 10px;
+    padding-left: 20px;
+    }
+
+.left{padding-top: 5px;
+      }
+.center{padding-top: 17px;
+        padding-right: 10px;
+        }
+.right{padding-top: 25px;
+       }
+
+.name{
+      font-family: 'Coiny', cursive;
+      font-size: 30px;
+      }
+
+.ing{
+     font-family: 'Coiny', cursive;
+     font-size: 17px;
+     margin-top: 15px
+     }
+
+.ingc{
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px;
+      line-height: 22px;
+      }
+
+.ste{
+    font-family: 'Coiny', cursive;
+    font-size: 17px;
+    margin-top: 20px;
+    }
+
+.stec{
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px;
+      line-height: 22px;
+      }
+
+ul{
+   list-style-type: none;
+   display: flex;
+   margin-top: 100px;
+   margin-left: 100px;
+   }
+
+li{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+   width: 330px;
+   padding-right: 20px;
+   padding-left: 20px;
+   }
+
+/*.lia{}*/
+/*.lib{}*/
+.lic{
+     padding-left: 5px;
+     }
+
+.url{
+     font-family: 'Coiny', cursive;
+     margin-left: 850px;
+     font-size: 22px}
+
+a:link {color:#FAF3E8;
+	  text-decoration: none}
+a:visited{color:#FAF3E8;}
+a:hover {color:black;}
